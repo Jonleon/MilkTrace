@@ -1,0 +1,31 @@
+v2.4.0:
+  date: 2019-04-06
+  changes:
+    - update dependenices
+    - swap from yarn to npm package manager
+    - update syntax to es6
+v2.3.0:
+  date: 2019-04-06
+  changes:
+    - search for bearer in signed/unsigned cookies header
+    - raising the minimum supported nodejs version
+v2.2.0:
+  date: 2018-08-09
+  changes:
+    - added typescript support
+v2.1.1:
+  date: 2017-12-06
+  changes:
+    - Update express api - `res.send(code)` to `res.status(code).send()`
+v2.1.0:
+  date: 2015-01-21
+  changes:
+    - Support custom req key.
+v2.0.0:
+  date: 2014-09-01
+  changes:
+    - Support custom access_token keys.
+v1.0.1:
+  date: 2014-09-01
+  changes:
+    - Initial release.
