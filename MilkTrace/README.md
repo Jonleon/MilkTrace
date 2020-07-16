@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Balance transfer
 
 A sample Node.js app to demonstrate **__fabric-client__** & **__fabric-ca-client__** Node.js SDK APIs
@@ -297,4 +297,4 @@ milk
 =======
 # MilkTrace
 一个基于超级账本的简易牛奶溯源系统的区块链子系统实现
->>>>>>> ef76bcd18fcb1c6d4cfca2f13ce79e99a890f28f
+
